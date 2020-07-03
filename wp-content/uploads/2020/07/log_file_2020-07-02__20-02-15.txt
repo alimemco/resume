@@ -1,0 +1,133 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://127.0.0.1
+Data file = E:\xampp\htdocs/wp-content/uploads/2020/07/portfolioweb.wordpress.2019-02-05.xml
+Widget file = E:\xampp\htdocs/wp-content/uploads/2020/07/portfolio-web-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[WARNING] Failed to import product_cat طراحی
+[ERROR] Failed to import "portfolio_man_4(1920x800)" (Media)
+[ERROR] Failed to import "pexels-photo-1493322" (Media)
+[ERROR] Failed to import "pexels-photo-1516654" (Media)
+[ERROR] Failed to import "portfolio_man_5" (Media)
+[ERROR] Failed to import "ux-788002_1920" (Media)
+[ERROR] Failed to import "brainstorming-2398556_1920" (Media)
+[ERROR] Failed to import "computer-1245714_1920" (Media)
+[ERROR] Failed to import "icon-1379249_1920" (Media)
+[ERROR] Failed to import "iphone-x-2864150_1920" (Media)
+[ERROR] Failed to import "laptop-1209008" (Media)
+[ERROR] Failed to import "laptop-3190194_1920" (Media)
+[ERROR] Failed to import "pexels-photo-1037992" (Media)
+[ERROR] Failed to import "pexels-photo-1037997" (Media)
+[ERROR] Failed to import "pexels-photo-1157803" (Media)
+[ERROR] Failed to import "computer-1149148_1920" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "logo_free_version" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat بدون دسته‌بندی
+[WARNING] Failed to import product_cat طراحی
+[ERROR] Failed to import "portfolio_man_4(1920x800)" (Media)
+[ERROR] Failed to import "pexels-photo-1493322" (Media)
+[ERROR] Failed to import "pexels-photo-1516654" (Media)
+[ERROR] Failed to import "portfolio_man_5" (Media)
+[ERROR] Failed to import "ux-788002_1920" (Media)
+[ERROR] Failed to import "brainstorming-2398556_1920" (Media)
+[ERROR] Failed to import "computer-1245714_1920" (Media)
+[ERROR] Failed to import "icon-1379249_1920" (Media)
+[ERROR] Failed to import "iphone-x-2864150_1920" (Media)
+[ERROR] Failed to import "laptop-1209008" (Media)
+[ERROR] Failed to import "laptop-3190194_1920" (Media)
+[ERROR] Failed to import "pexels-photo-1037992" (Media)
+[ERROR] Failed to import "pexels-photo-1037997" (Media)
+[ERROR] Failed to import "pexels-photo-1157803" (Media)
+[ERROR] Failed to import "computer-1149148_1920" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "logo_free_version" (Media)
+[ERROR] Failed to import "default-image" (Media)
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Home Main Content Area : 
+
+AT About Section - درباره من - Imported
+AT Skills Section - مهارت های من - Imported
+AT Service Section - خدمات من - Imported
+AT Timeline Widget - سوابق کاری - Imported
+AT Gallery Section - نمونه کارهای من - Imported
+AT Feature Section - طراحی و پیاده سازی فوق العاده - Imported
+AT Posts Column - No Title - Imported
+AT Testimonial Section - نظر مشتریان از کارم - Imported
+AT Contact Section - ارتباط با من - Imported
+AT Advanced Image/Logo - معروف ترین مشتریانم - Imported
+
+Footer Column One : 
+
+Custom HTML - با ما در تماس باشید - Imported
+
+Footer Column Two : 
+
+AT About Section - درباره ما - Imported
+
+Footer Column Three : 
+
+Navigation Menu - لینک های مفید - Imported
+
+

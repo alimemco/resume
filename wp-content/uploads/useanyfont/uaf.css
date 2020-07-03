@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'yekan';
+					src: url('/wp-content/uploads/useanyfont/6468yekan.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/6468yekan.woff') format('woff');
+					font-display: auto;
+				}
+
+				.yekan{font-family: 'yekan' !important;}
+
+		
