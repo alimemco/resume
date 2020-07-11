@@ -1,0 +1,29 @@
+/* Gallery Styles */
+
+#hmg_motioncontainer_a {
+margin:0 auto;  /* Uncomment this line if you wish to center the gallery on page */
+width: 100%; /* Set to gallery width, in px or percentage */
+height: 90px; /* Set to gallery height */
+}
+
+#hmg_motioncontainer_a a img {
+border: 3px solid #FFFFFF; /* Set image border color */
+}
+
+#hmg_motioncontainer_a a:hover img {
+border: 3px solid #FFFFFF; /* Set image border hover color */
+}
+
+#statusdiv {
+background-color: lightyellow;
+border: 1px solid gray;
+padding: 2px;
+position: absolute; /* Stop Editing Gallery Styles */
+left: -300px;
+visibility: hidden;
+}
+
+#hmg_motioncontainer_a a:hover {
+color: red; /* Dummy definition to overcome IE bug */
+}
+/* End Gallery Styles */

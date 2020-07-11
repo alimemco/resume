@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Horizontal motion gallery\n"
+"POT-Creation-Date: 2019-08-15 23:02+0800\n"
+"PO-Revision-Date: 2019-08-15 23:02+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../horizontal-motion-gallery.php:45
+msgid "Horizontal motion gallery"
+msgstr "Galeria poziomego ruchu"
+
+#: ../horizontal-motion-gallery.php:72
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../horizontal-motion-gallery.php:77
+msgid "Plugin setting"
+msgstr "Ustawienia"
+
+#: ../horizontal-motion-gallery.php:80
+msgid "Directory 1 (Default for widget)"
+msgstr "Katalog 1 (domyślna dla widget)"
+
+#: ../horizontal-motion-gallery.php:82 ../horizontal-motion-gallery.php:86
+#: ../horizontal-motion-gallery.php:90 ../horizontal-motion-gallery.php:94
+#: ../horizontal-motion-gallery.php:98
+msgid "Please enter your image directory."
+msgstr "Wprowadź swój"
+
+#: ../horizontal-motion-gallery.php:84
+msgid "Directory 2"
+msgstr "Katalog 2"
+
+#: ../horizontal-motion-gallery.php:88
+msgid "Directory 3"
+msgstr "Katalog 3"
+
+#: ../horizontal-motion-gallery.php:92
+msgid "Directory 4"
+msgstr "Katalog 4"
+
+#: ../horizontal-motion-gallery.php:96
+msgid "Directory 5"
+msgstr "Ustawienie 5"
+
+#: ../horizontal-motion-gallery.php:102
+msgid "Submit"
+msgstr "Wyślij"
+
+#: ../horizontal-motion-gallery.php:104
+msgid "Help"
+msgstr "Pomoc"
+
+#: ../horizontal-motion-gallery.php:108
+msgid "Plugin configuration option"
+msgstr "Opcja konfiguracji plugin"
+
+#: ../horizontal-motion-gallery.php:110
+msgid "Drag and drop the widget to your sidebar."
+msgstr "Przeciągnij i upuść widget do paska bocznego."
+
+#: ../horizontal-motion-gallery.php:111
+msgid "Add directly in to the theme using PHP code."
+msgstr "Dodaj bezpośrednio do tematu z wykorzystaniem kodu PHP."
+
+#: ../horizontal-motion-gallery.php:112
+msgid "Add the plugin in the posts or pages using short code"
+msgstr "Dodaj wtyczki na stanowiskach lub stron za pomocą krótkiego kodu"
+
+#: ../horizontal-motion-gallery.php:114 ../horizontal-motion-gallery.php:142
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../horizontal-motion-gallery.php:115 ../horizontal-motion-gallery.php:143
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../horizontal-motion-gallery.php:116
+msgid ""
+"Note: Dont upload your original images into plugin folder. if you upload the "
+"images into plugin folder, you may lose the images when you update the "
+"plugin to next version. Thus upload your images in \"wp-content/uploads/your-"
+"folder/\" folder and use the folder path as per the example in \"Image "
+"Directory\" text box."
+msgstr ""
+
+#: ../horizontal-motion-gallery.php:128 ../horizontal-motion-gallery.php:129
+#: ../horizontal-motion-gallery.php:140 ../horizontal-motion-gallery.php:150
+#: ../horizontal-motion-gallery.php:155
+msgid "Motion Gallery"
+msgstr "Ruch Galeria"
